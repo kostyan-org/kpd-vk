@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "KPD VK",
     "description": "Упрощает пользование сообществами VK",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "icons": {
         "128": "icons/iconCircle128.png",
         "48": "icons/iconCircle48.png"
